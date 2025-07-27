@@ -22,4 +22,4 @@ Below are screenshots of each page of the current dashboard:
 - <img width="593" height="427" alt="image" src="https://github.com/user-attachments/assets/89ec5fe3-3625-4d3e-bad4-eab25f0036a3" />
 
 # Repository Overview
-This repository contains [1 Jupyter notebook](Notebook.ipynb) and the full dashboard can be found [here](https://lookerstudio.google.com/reporting/0dc70163-4b22-491c-a2f4-de37fb6b7158).
+This repository contains [1 Jupyter notebook](Notebook.ipynb) and the full interactive dashboard can be found [here](https://lookerstudio.google.com/reporting/0dc70163-4b22-491c-a2f4-de37fb6b7158).
